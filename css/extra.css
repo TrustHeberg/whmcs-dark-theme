@@ -1,0 +1,47 @@
+
+
+body {
+    background: #222;
+    color: #fff!important;
+}
+div{
+    background:#222 !important;
+    color:#fff!important;
+}
+h1,h2,h3,h4,h5,h6,p {
+    color: #fff;
+}
+.dashboard-panel-item .panel {
+    border: 0;
+    margin-bottom: 14px;
+    background: #292929;
+    color: #fff;
+}
+a {
+    color: #d1ffdd;
+}
+.text-muted {
+    color: #d7d7d7;
+}
+.icon-stats {
+    background: #282828;
+}
+
+.dashboard-panel-item .panel-heading {
+    background-color: #a2a2a2;
+}
+.dashboard-panel-item .panel-heading .panel-title {
+    color: #fff;
+}.contentarea {
+    background-color: #000000!important;
+    overflow: hidden;
+}
+
+table.datatable tr:not(.detail-row):hover td {
+    background-color: #000000!important;
+}
+table.datatable td {
+    padding: 10px;
+    background: #222!important;
+    color: #fff!important;
+}
